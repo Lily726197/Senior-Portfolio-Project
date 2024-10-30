@@ -1,0 +1,16 @@
+#home{
+    background-color: #307891;
+}
+
+.navbar-expand{
+    background-color: #333B3D;
+}
+
+.navbar-brand{
+    color: white;
+    font-family: "Pacifico", cursive;
+}
+
+.navbar-brand-home:hover{
+    color: #307891;
+}
