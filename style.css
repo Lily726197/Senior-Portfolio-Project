@@ -2,8 +2,28 @@
     background-color: #307891;
 }
 
+#resume{
+    background-color: #E600DF;
+}
+
+#projects{
+    background-color: #00E5DB;
+}
+
+#cert{
+    background-color: #B99BBB;
+}
+
+#github{
+    background-color: #6B1FBD;
+}
+
+#ref{
+    background-color: #E50F00;
+}
+
 .navbar-expand{
-    background-color: #333B3D;
+    background-color: black;
 }
 
 .navbar-brand{
@@ -13,4 +33,24 @@
 
 .navbar-brand-home:hover{
     color: #307891;
+}
+
+.navbar-brand-resume:hover{
+    color: #E600DF;
+}
+
+.navbar-brand-projects:hover{
+    color: #00E5DB;
+}
+
+.navbar-brand-cert:hover{
+    color:#B99BBB;
+}
+
+.navbar-brand-github:hover{
+    color:#6B1FBD;
+}
+
+.navbar-brand-ref:hover{
+    color:#E50F00;
 }
