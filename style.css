@@ -62,3 +62,12 @@
 .nav-link:hover{
     color: #F5E50A;
 }
+
+#dev-photo{
+    height: "300px";
+    width: "250px";
+}
+
+#caption{
+    font-weight:bold;
+}
