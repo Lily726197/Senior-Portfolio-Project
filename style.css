@@ -54,3 +54,11 @@
 .navbar-brand-ref:hover{
     color:#E50F00;
 }
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: #F5E50A;
+}
