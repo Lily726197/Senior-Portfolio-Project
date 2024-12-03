@@ -17,3 +17,13 @@
 .navbar-brand{
     font-family:"Pacifico", cursive;
 }
+
+.card-main{
+    background-color:#9B3B64;
+    color:white;
+} 
+
+#dev-photo{
+    height:200px;
+    width:100px;
+}
