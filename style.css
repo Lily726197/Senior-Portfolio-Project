@@ -1,17 +1,9 @@
-#main{
+#main, #projects{
     background-color:#0CCBF0;
 }
 
-#resume{
-    background-color:black;
-}
-
-#projects{
-    background-color:#F00C6E;
-}
-
-#cert{
-    background-color:#F0D90C;
+#resume, #cert{
+    background-color:#9B3B64;
 }
 
 .navbar-brand{
@@ -28,8 +20,8 @@
     width:100px;
 }
 
-.resume-text{
-    color:white;
+.resume-text, .cert-text{
+    color:#0CCBF0;
 }
 
 #bpa-logo{
