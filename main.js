@@ -1,6 +1,6 @@
 $("#dev-photo").click(function(){
-    $("#dev-photo").animate({height: "400px", width: "200px"}, "slow");
-    $("#dev-photo").animate({height: "200px", width: "100px"}, "slow");
+    $("#dev-photo").animate({height: "500px", width: "600px"}, "slow");
+    $("#dev-photo").animate({height: "300px", width: "400px"}, "slow");
 })
 
 $("#bpa-logo").click(function(){
